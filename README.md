@@ -37,7 +37,6 @@ I am a highly motivated **Computer Science Student** at Saint Louis University (
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-![Linux / OS](https://img.shields.io/badge/OS_&_Hardware-Knowledge-blueviolet?style=flat-square)
 
 ---
 
@@ -45,7 +44,7 @@ I am a highly motivated **Computer Science Student** at Saint Louis University (
 
 ### 🫀 [Cordex](https://github.com/kai-deun/Cordex) — AI-Powered Cardiac Risk Assessment App
 * **Tech Stack:** Next.js, FastAPI, PostgreSQL, XGBoost, PyTorch, SHAP, Grad-CAM
-* A clinical platform combining a Next.js dashboard and a FastAPI backend to run dual-layer prognostic ML pipelines. It leverages tabular ensemble models alongside a DenseNet121 computer vision architecture to output real-time visual cardiac risk heatmaps via Grad-CAM localization.
+* A registration-free clinical platform combining a Next.js dashboard and a FastAPI backend to run dual-layer prognostic ML pipelines. It leverages tabular ensemble models alongside a DenseNet121 computer vision architecture to output real-time visual cardiac risk heatmaps via Grad-CAM localization.
 
 ### 📰 [Fake News Detector](https://github.com/kai-deun/Fake-News-Detector) — Cross-Lingual Misinformation Classifier
 * **Tech Stack:** Python, PyTorch, Hugging Face (Transformers), XLM-RoBERTa, FastAPI, Streamlit
@@ -64,8 +63,8 @@ I am a highly motivated **Computer Science Student** at Saint Louis University (
 ## 📊 GitHub Metrics & Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kai-deun&show_icons=true&theme=radical&count_private=true" alt="Phil's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kai-deun&layout=compact&theme=radical" alt="Phil's Top Languages" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=kai-deun&show_icons=true&theme=radical&count_private=true" alt="Phil's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=kai-deun&layout=compact&theme=radical" alt="Phil's Top Languages" width="48%" />
 </p>
 
 ---
